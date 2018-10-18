@@ -2,3 +2,4 @@ Git is intresting!
 git is easy?
 Git is easy?
 Git is easy!
+Git is easy.
