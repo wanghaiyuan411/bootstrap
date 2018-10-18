@@ -4,5 +4,7 @@ Git is easy?
 Git is easy!
 Git is easy.
 add this to test git pull!
-readd a line to test git pull!
+readd a line to test git push & git pull!
 add a line to test git pull & push.
+
+
