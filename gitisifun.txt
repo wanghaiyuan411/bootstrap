@@ -1,6 +1,3 @@
 Git is intresting!
-<<<<<<< HEAD
 git is easy?
-=======
 Git is easy?
->>>>>>> a9b426ff40a1eaf596553abcffa11322e3119846
